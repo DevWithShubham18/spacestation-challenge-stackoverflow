@@ -76,9 +76,3 @@ This MLOps loop ensures the Falcon system remains robust, adaptable, and continu
 
 
 
- Project Structure
-├── runs/detect/train5/weights/best.pt  
-├── app.py                              
-├── packages.txt                        
-├── requirements.txt                    
-└── README.md                           
