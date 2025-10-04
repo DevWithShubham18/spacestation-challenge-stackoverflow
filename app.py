@@ -34,7 +34,7 @@ if 'logged_in' not in st.session_state:
 
 def display_login_form():
     st.title("Welcome to the Safety Detector App")
-    st.markdown("Please enter any username and password to proceed.")
+    st.markdown("Please enter username and password to proceed.")
     with st.form("login_form"):
         username = st.text_input("Username")
         password = st.text_input("Password", type="password")
