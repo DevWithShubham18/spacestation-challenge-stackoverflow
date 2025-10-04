@@ -1,0 +1,7 @@
+device: mps 
+
+train: /Users/shubham/Documents/hackaura/Hackathon2_scripts/data/train_3
+val: /Users/shubham/Documents/hackaura/Hackathon2_scripts/data/train_3
+test: /Users/shubham/Documents/hackaura/Hackathon2_scripts/data/test3
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         

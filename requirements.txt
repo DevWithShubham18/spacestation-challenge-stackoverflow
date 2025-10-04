@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+ultralytics
+torch
+torchvision
+Pillow
