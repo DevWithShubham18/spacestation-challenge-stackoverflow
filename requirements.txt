@@ -3,6 +3,4 @@ ultralytics==8.1.20
 opencv-python-headless==4.8.0.74
 pytz==2023.3.post1
 requests==2.31.0
-torch==2.1.2
-torchvision==0.16.2
 streamlit-autorefresh==0.0.1
