@@ -5,5 +5,5 @@ torch
 torchvision
 Pillow
 requests
-opencv-python-headless
+opencv-python
 pytz
