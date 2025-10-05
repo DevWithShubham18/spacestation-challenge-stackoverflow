@@ -1,9 +1,7 @@
-streamlit
-streamlit-autorefresh
-ultralytics
-torch
-torchvision
-Pillow
-requests
-opencv-python
-pytz
+
+streamlit==1.30.0
+streamlit-autorefresh==0.0.1
+ultralytics==8.0.190
+requests==2.31.0
+opencv-python==4.8.0.74
+pytz==2023.3.post1
